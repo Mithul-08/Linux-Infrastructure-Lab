@@ -38,7 +38,6 @@ linux-infrastructure-lab/
 │
 ├──	notes/
 │			├──	command-reference.md
-│			└──	interview-questions.md
 │
 └──	screenshots/
 ```
