@@ -26,5 +26,6 @@
 <img width="850" height="147" alt="08-config-validation" src="https://github.com/user-attachments/assets/57becda4-ba32-4674-9b3b-62b39c91eeb3" />
 
 ## 09-server-health
+<img width="1085" height="883" alt="09-server-health" src="https://github.com/user-attachments/assets/a8aff0fa-8f2e-42ed-a26c-8de5fa67af72" />
 
-## 10-final-troubleshooting
+
