@@ -14,7 +14,6 @@ Check	→	Identify	→	Fix	→	Verify	→	Automate
 linux-infrastructure-lab/
 │
 ├──	README.md
-├──	LICENSE
 ├──	.gitignore
 │
 ├──	docs/
@@ -38,8 +37,6 @@ linux-infrastructure-lab/
 │
 ├──	notes/
 │			├──	command-reference.md
-│
-└──	screenshots/
 ```
 
 ## Project	Overview
